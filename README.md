@@ -14,7 +14,7 @@
 
 
 
-<p><img align="left" src="https://gitmystat.vercel.app/top?theme=dark&username=Sameer-0101&layout=bar" alt="Sameer-0101" /></p>
+<p><img align="left" src="https://gitmystat.vercel.app/top?theme=dark&username=Sameer01-01&layout=bar" alt="Sameer01-01" /></p>
 
-<p>&nbsp;<img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Sameer-0101" alt="" />
+<p>&nbsp;<img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Sameer01-01" alt="" />
 
