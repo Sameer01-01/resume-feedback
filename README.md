@@ -16,8 +16,3 @@
 
 
 
-<p><img align="left" src="https://gitmystat.vercel.app/user?theme=light&username=Sameer01-01" alt=""  height="200" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer01-01&" alt="" /></p>
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=Sameer01-01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
