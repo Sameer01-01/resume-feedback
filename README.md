@@ -13,3 +13,8 @@
 7. go to the https://localhost:5173 and use the resume feedback as you wish!!
 
 
+
+<p><img align="left" src="https://gitmystat.vercel.app/top?theme=dark&username=Sameer-0101&layout=bar" alt="Sameer-0101" /></p>
+
+<p>&nbsp;<img align="left" src="https://gitmystat.vercel.app/user?theme=dark&username=Sameer-0101" alt="" />
+
